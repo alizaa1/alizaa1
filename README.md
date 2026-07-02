@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on BESI's Field Performance Tool
 - 👯 I’m looking to collaborate on **cool engineering projects!**
-- 💬 Ask me about **Java, Python, C, C++, Verilog, or Max Verstappen**
+- 💬 Ask me about **Typescript, Python, C, C++, Verilog, or Max Verstappen**
 - 📫 How to reach me **alizaazam5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
