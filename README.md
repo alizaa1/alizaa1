@@ -1,8 +1,8 @@
 # Hi! I'm Aliza 👋
 
 - 🔭 I’m currently working on BESI's Field Performance Tool
-- 👯 I’m looking to collaborate on **cool engineering projects!**
-- 💬 Ask me about **Typescript, Python, C, C++, Verilog, or Max Verstappen**
+- 👯 I’m always looking to collaborate on **cool engineering projects!**
+- 💬 Ask me about **Typescript, Python, Verilog, or Max Verstappen**
 - 📫 How to reach me **alizaazam5@gmail.com**
 
 ## 🔧 Technologies & Tools
