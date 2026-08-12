@@ -1,4 +1,4 @@
-# Hi! I'm Aliza 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E21B4D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aliza;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C+%D8%A3%D9%86%D8%A7+%D8%A7%D9%84%D9%8A%D8%B2%D8%A7;%DB%81%DB%8C%D9%84%D9%88%D8%8C+%D9%85%DB%8C%DA%BA+%D8%B9%D9%84%DB%8C%D8%B2%DB%81+%DB%81%D9%88%DA%BA;Salut%2C+je+suis+Aliza;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFAliza;Hola%2C+soy+Aliza;Ciao%2C+sono+Aliza)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on BESI's Field Performance Tool
 - 👯 I’m always looking to collaborate on **cool engineering projects!**
